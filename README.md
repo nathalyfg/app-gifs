@@ -1,13 +1,13 @@
 # Gifs-App
 
 Application that will allow you to search for Gifs.
-For the development of the application an API was created in [GIPHY API](https://developers.giphy.com/)
+* For the development of the application an API was created in [GIPHY API](https://developers.giphy.com/)
 
 ## Getting Started 🚀
 
 - Clone this repo:
   ```shell
-  git clone git@github.com:mireiasuefra/searcher-harry-potter.git
+  git clone https://github.com/nathalyfg/app-gifs.git
   ```
 
 - Install dependencies
@@ -28,8 +28,8 @@ Navigate to `http://localhost:4200/`. The application will automatically reload 
 
 
 ## Built with 🛠️
-[Angular](https://angular.io/) as a javascript framework.
-[Bootstrap](https://getbootstrap.com/) as a component library
+* [Angular](https://angular.io/) as a javascript framework.
+* [Bootstrap](https://getbootstrap.com/) as a component library
 
 
 
