@@ -1,6 +1,6 @@
 # Gifs-App
 
-Application that will allow you to search for Gifs. For the development of the application an API was created in [GIPHY API](https://developers.giphy.com/)
+Application that will allow you to search for Gifs. For the development of the application an API was created in [GIPHY API](https://developers.giphy.com/).
 
 ## Getting Started 🚀
 
@@ -20,7 +20,7 @@ Application that will allow you to search for Gifs. For the development of the a
   ```
   or for a dev server
   ```shell
-  ng serve
+  ng serve --o
   ```
   
 Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
