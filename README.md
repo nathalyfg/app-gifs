@@ -1,7 +1,6 @@
 # Gifs-App
 
-Application that will allow you to search for Gifs.
-* For the development of the application an API was created in [GIPHY API](https://developers.giphy.com/)
+Application that will allow you to search for Gifs. For the development of the application an API was created in [GIPHY API](https://developers.giphy.com/)
 
 ## Getting Started 🚀
 
@@ -28,8 +27,16 @@ Navigate to `http://localhost:4200/`. The application will automatically reload 
 
 
 ## Built with 🛠️
+
 * [Angular](https://angular.io/) as a javascript framework.
 * [Bootstrap](https://getbootstrap.com/) as a component library
+
+
+## About me: 👩🏻‍💻
+
+* [GitHub](https://github.com/nathalyfg)
+* [Linkedin](www.linkedin.com/in/nathaly-ferrer-gómez)
+
 
 
 
